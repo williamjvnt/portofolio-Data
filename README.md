@@ -1,0 +1,1 @@
+Berikut merupakan Portofolio saya seputar Data Scientist. Portofolio tersebut saya kerjakan selama saya mengambil kelas-kelas yang berhubungan dengan Data Scientist seperti pembelajaran mesin, Pemrograman Berbasis Awan dan Kecerdasan Komputasional
